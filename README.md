@@ -4,4 +4,4 @@
 
 Python practice from the UDEMY course: "Complete Python Bootcamp: Go from zero to hero in Python 3"
 
-practice creating a tic tac toe game using the command line.
+Practice creating a tic tac toe game in python that operates using the command line.
